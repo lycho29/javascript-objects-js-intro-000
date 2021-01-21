@@ -3,5 +3,5 @@ var playlist = {'Slow Dive': 'Allison'};
 
 var updatePlaylist = (playlist, artistName, songTitle) => {
   updatePlaylist['My Bloody Valentine'] = 'Sometimes';
-  updatePlaylist['Phil Ochs'] = 'Here\'s to the state
+  updatePlaylist['Phil Ochs'] = 'Here\'s to the State of Mississipi 
 };
