@@ -1,5 +1,5 @@
-var playlist = {''
-aylist = {'Doja Cat': 'Say So'};
+var playlist = {'Slow Dive': 'Allison'};
+
 
 var updatePlaylist = (playlist, artistName, songTitle) => {
   updatePlaylist['My Bloody Valentine'] = ''
