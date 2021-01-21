@@ -1,6 +1,5 @@
 var playlist = {
-  'Slowdive
-  Dive': 'Allison',
+  'Slowdive': 'Allison',
   'My Bloody Valentine': 'Sometimes',
 };
 
@@ -11,5 +10,5 @@ var updatePlaylist = (playlist, artistName, songTitle) => {
 };
 
 var removeFromPlaylist = (playlist, artistName) => {
-  delete playlist['Slow Dive'];
+  delete playlist['Slowdive'];
 };
