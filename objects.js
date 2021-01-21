@@ -7,4 +7,6 @@ var updatePlaylist = (playlist, artistName, songTitle) => {
   return updatePlaylist;
 };
 
-var removeFromPlaylist = ()
+var removeFromPlaylist = (playlist, artistName) => {
+  
+}
